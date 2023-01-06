@@ -49,6 +49,7 @@ h2 {
   .about-section h2 {
     font-size: 18px;
     font-family:var(--default-font-family);
+    line-height: 1.5;
   }
   .about-section p {
     font-size: 18px;
@@ -123,6 +124,7 @@ h2 {
 .btn-branding {
   background: var(--branding-color);
   color: white;
+  opacity: 0.8;
   line-height: 27px;
   font-size: 18px;
   border-radius: 5px;
