@@ -130,7 +130,9 @@ h2 {
   border-radius: 5px;
   Padding: 18px 30px
 }
-
+.title {
+  text-align: center;
+}
  .btn-branding-outline {
   color: var(--branding-color);
   border: 3px solid var(--branding-color);
